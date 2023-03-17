@@ -1,0 +1,39 @@
+.form-heading {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28px;
+  color: #333333;
+  margin-bottom: 30px;
+}
+
+.login-btn {
+  background: #276add;
+  border-radius: 4px;
+  padding: 8px;
+  gap: 8px;
+  text-transform: initial;
+  font-size: 16px;
+  color: #fff;
+  width: 100%;
+}
+
+.error {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 120%;
+  color: #e1251b;
+}
+
+.form-container {
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../../public/form-bg.avif");
+}
+
+.form {
+  border: 1px solid #cccccc;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  padding: 24px 20px;
+}
